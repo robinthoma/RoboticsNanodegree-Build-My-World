@@ -25,7 +25,7 @@ And update the GAZEBO_PLUGIN_PATH environment variable:
 
 Once the plugin is built, open the world in Gazebo:
 
-`$ gazebo ../world/myworld
+`$ gazebo ../world/myworld`
 
 The world should open in Gazebo, and the terminal should display the message:
 
